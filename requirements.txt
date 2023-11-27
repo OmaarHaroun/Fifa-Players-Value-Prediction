@@ -1,9 +1,9 @@
 joblib==0.14.1
-sklearn==1.0.2
+
 imblearn==0.10.1
 xgboost==1.6.2
 category_encoders==2.6.2
-
+scikit-learn==1.0.2
 
 numpy==1.21.6
 
